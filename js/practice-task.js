@@ -60,3 +60,5 @@ let joinTwoArr = (arr1, arr2) => {
 };
 
 let twoArr = joinTwoArr([23, 5, 23, 523], [23, 563, 6326, 745]);
+
+// Task Number Seven
