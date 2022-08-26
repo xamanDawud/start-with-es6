@@ -3,7 +3,7 @@ let name = "xaman";
 xaman = "Dawud";
 console.log(xaman);
 
-You cannot Reassign the Const value
+// You cannot Reassign the Const value
 const home = "DorgaBahapur";
 home = "Brammanbaria";
 console.log(home);
