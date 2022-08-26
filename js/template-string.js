@@ -27,10 +27,8 @@ let abSummery =
     "is the biggest number on the file";
 console.log(abSummery);
 
-
-
 // You can use template string and explore the value with string very easily
-let c = 56
-let d = 88
-let cdNewSummery = `${c} is the smallest number on this scopw and ${d} is the biggest number on this scope`
-console.log(cdNewSummery)
+let c = 56;
+let d = 88;
+let cdNewSummery = `${c} is the smallest number on this scopw and ${d} is the biggest number on this scope`;
+console.log(cdNewSummery);
